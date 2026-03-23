@@ -1,4 +1,4 @@
-# ДЗ 8 — Перехват HTTP-трафика и анализ XSS (Scapy)
+HTTP-traffic-interception-and-XSS-analysis-Scapy
 
 ## Цель
 
